@@ -1,0 +1,13 @@
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\bin\Debug\USBDetection.exe
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\bin\Debug\USBDetection.pdb
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\bin\Debug\LibUsbDotNet.dll
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\bin\Debug\LibUsbDotNet.xml
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\USBDetection.Form1.resources
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\USBDetection.Properties.Resources.resources
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\USBDetection.exe
+c:\documents and settings\jswarts\my documents\visual studio 2010\Projects\USBDetection\USBDetection\obj\x86\Debug\USBDetection.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetection\bin\Debug\BoundScriptAPI.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetection\bin\Debug\BoundScriptAPI.pdb

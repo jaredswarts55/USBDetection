@@ -1,0 +1,10 @@
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe.config
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\BoundScriptAPI.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\LibUsbDotNet.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\BoundScriptAPI.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\LibUsbDotNet.xml
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\obj\x86\Debug\USBDetectionService.exe
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\obj\x86\Debug\USBDetectionService.pdb

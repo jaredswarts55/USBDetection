@@ -1,0 +1,23 @@
+﻿Installing assembly 'C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.InstallLog
+   assemblypath = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe
+Rolling back assembly 'C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.InstallLog
+   assemblypath = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe
+Installing assembly 'C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.InstallLog
+   assemblypath = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe
+Installing service USBDetection...
+Service USBDetection has been successfully installed.
+Creating EventLog source USBDetection in log Application...
+Committing assembly 'C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.InstallLog
+   assemblypath = C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\USBDetectionService\bin\Debug\USBDetectionService.exe

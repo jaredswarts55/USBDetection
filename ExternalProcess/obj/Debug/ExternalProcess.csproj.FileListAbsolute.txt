@@ -1,0 +1,7 @@
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\bin\Debug\ExternalProcess.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\bin\Debug\ExternalProcess.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\bin\Debug\BoundScriptAPI.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\bin\Debug\BoundScriptAPI.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\obj\Debug\ExternalProcess.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\ExternalProcess\obj\Debug\ExternalProcess.pdb

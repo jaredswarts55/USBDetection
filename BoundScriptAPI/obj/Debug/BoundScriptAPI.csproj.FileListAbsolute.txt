@@ -1,0 +1,5 @@
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\BoundScriptAPI\bin\Debug\BoundScriptAPI.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\BoundScriptAPI\bin\Debug\BoundScriptAPI.pdb
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\BoundScriptAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\BoundScriptAPI\obj\Debug\BoundScriptAPI.dll
+C:\Documents and Settings\jswarts\My Documents\Visual Studio 2010\Projects\USBDetection\BoundScriptAPI\obj\Debug\BoundScriptAPI.pdb
